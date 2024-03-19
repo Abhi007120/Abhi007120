@@ -33,3 +33,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhithakur&show_icons=true&locale=en" alt="abhithakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhithakur&" alt="abhithakur" /></p>
+
+
+
+[![Abhithakur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abhithakur007120&&theme=xcode)](https://github.com/abhithakur007120)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhithakur007120&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhithakur" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhithakur007120&show_icons=true&locale=en&theme=tokyonight" alt="abhithakur" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhithakur007120&&theme=tokyonight" alt="abhithakur" /></p>
