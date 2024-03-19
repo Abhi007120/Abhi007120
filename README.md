@@ -1,4 +1,22 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Thakur</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhithakur&label=Profile%20views&color=0e75b6&style=flat" alt="abhithakur" /> </p>
+
+<p align="left"> <a href="https://twitter.com/abhithakur007120" target="blank"><img src="https://img.shields.io/twitter/follow/abhithakur?logo=twitter&style=for-the-badge" alt="abhithakur"  </p>
+
+- 🔭 I’m currently working on **E-commerce website**
+
+- 🌱 I’m currently learning **React.js**
+
+- 💬 Ask me about **JavaScript , MEARN**
+
+- 📫 How to reach me **abhithakur007120@gmail.com**
+
+- ⚡ Fun fact **I am passionate about coding**
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="[https://www.freepik.com/premium-ai-image/cartoon-programmer-art_77997355.htm](https://camo.githubusercontent.com/9ca0ced82181840f69592f469c3a37725f7b29cb85089d99cea212e62f0417ad/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f64633534356535613066393363396232626631643466306166353465626266662f74656e6f722e676966)">
 <p align="left">
